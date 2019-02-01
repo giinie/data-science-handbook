@@ -1,0 +1,7 @@
+[TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future
+1600 Pennsylvania Ave.
+5 Stony Brook St
+[I 17:38:37.353 NotebookApp] Serving notebooks from local directory:
+32nd street
+    To access the notebook, open this file in a browser:
