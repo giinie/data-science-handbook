@@ -1,3 +1,4 @@
+nltk
 pymc
 numpy>=1.9.1
 scipy>=0.17.1
