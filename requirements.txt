@@ -1,3 +1,4 @@
+keras
 nltk
 pymc
 numpy>=1.9.1
